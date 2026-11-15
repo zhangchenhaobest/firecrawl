@@ -1,3 +1,29 @@
+# firecrawl
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把网页及更多来源的数据供给 AI Agent 的抓取基础设施。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h3 align="center">
   <a name="readme-top"></a>
   <img
